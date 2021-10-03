@@ -1,2 +1,2 @@
 # send-rfid
-Keyboard emulation for RFID devices
+Tis is a keyboard emulation for RFID devices
